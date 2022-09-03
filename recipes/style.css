@@ -1,0 +1,10 @@
+#steps {
+    width: 800px;
+    position: relative;
+    left: 200px;
+}
+
+#recipe {
+    display: flex;
+    padding-left: 20px;
+}
